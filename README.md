@@ -1,4 +1,4 @@
-## Semana 6- Introdução API
+## Semana 6- Introdução API 🚀
 Nesta semana vimos alguns conceitos iniciais sobre APIs, metodos HTTP, requisições, JSON, API REST e API RESTfull. A atividade proposta foi a pesquisa acerca de alguns conceitos e alguns casos para imprimir no console.
 
 
